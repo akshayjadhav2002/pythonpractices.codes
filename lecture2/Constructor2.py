@@ -7,6 +7,7 @@ class Company:
     def CompInfo(self):
         print(self.empId)
         print(self.empName)
-        print(self.CompName)
+        print(self.CompName) # we have to write or access the golbal or class variable by the class or self 
+        
 emp1 = Company()
 emp1.CompInfo()

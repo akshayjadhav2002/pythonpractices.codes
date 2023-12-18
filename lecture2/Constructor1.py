@@ -8,5 +8,5 @@ class Employee:
         print(self.empName)
 emp1 = Employee(10,"Akshay")
 emp2 = Employee(20,"Ram")
-emp1.empInfo()
+emp1.empInfo() 
 emp2.empInfo()
