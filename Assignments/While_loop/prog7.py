@@ -2,7 +2,7 @@
 Nth_number = 3
 start =0
 cnt  =0
-while(cnt<=Nth_number):
+while(cnt<Nth_number):
     start = start + 1
     if(start % 2 != 0):
         odd = start

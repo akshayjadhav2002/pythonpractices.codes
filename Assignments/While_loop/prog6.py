@@ -1,3 +1,4 @@
+# table of number
 #num = int(input("Enter the no:"))
 num = 10
 i =1
