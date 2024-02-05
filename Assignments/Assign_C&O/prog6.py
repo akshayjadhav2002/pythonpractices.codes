@@ -10,6 +10,4 @@ class D(c):
 
 class E(D,B):
     pass
-
-
 print(E.__mro__)
